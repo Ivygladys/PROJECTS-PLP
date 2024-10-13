@@ -1,4 +1,12 @@
 # PROJECTS-PLP
+I am Ivy Wanjiru and I chose to take on three projects because I thrive in dynamic environments, and engaging with multiple initiatives aligns with both my personal and professional aspirations. Having diverse interests—from interior architecture and design to Selfcare and business —has naturally led me to pursue multiple projects. Each one offers unique challenges and opportunities for growth, which I find essential for my learning process.
+
+Additionally, balancing different projects helps me stay motivated. I have AudHD, which means I work best when I can channel my energy into various creative and strategic activities. It’s also in line with my values of making meaningful contributions across sectors—whether through my involvement in all the above. This approach ensures I don’t put all my efforts into one basket, giving me room to pivot or adapt if one project faces challenges.
+
+Lastly, I believe these projects complement each other and align with my broader goals in business administration, love for selfcare, and construction. Taking this path allows me to apply concepts from my MBA coursework, CPA studies, and practical experience in real-time while building something sustainable. Each project serves a unique part of my vision, whether it’s contributing to climate justice, growth. By diversifying, I increase my chances of long-term success and avoid burnout by shifting focus when needed.
+
+Below are my projects.
+
 BuildTracker
 BuildTracker is an innovative platform designed to streamline project management and enhance collaboration among teams. Its user-friendly interface allows project managers and team members to track progress, set deadlines, and allocate resources effectively. With features like task assignments, time tracking, and real-time updates, BuildTracker empowers teams to meet their goals efficiently. The platform supports various industries, making it adaptable for diverse project needs. By fostering transparency and accountability, BuildTracker enhances productivity, ensuring that projects are delivered on time and within budget.
 
